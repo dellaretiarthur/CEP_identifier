@@ -9,12 +9,12 @@ To use this application, you'll need Python installed on your system. This appli
 
 #### 1. Clone the repository:
 
-`git clone https://github.com/dellaretiarthur/CEP_Identifier.git
+`git clone https://github.com/dellaretiarthur/CEP_identifier.git
 `
 
 #### 2. Navigate to the project directory:
 
-`cd CEP_Identifier`
+`cd CEP_identifier`
 
 
 #### 3. Create a virtual environment (optional but recommended):
@@ -24,7 +24,7 @@ To use this application, you'll need Python installed on your system. This appli
 ####  4. Activate the virtual environment:
 
 - <small>**On Windows**</small>:
-  - `env\Scripts\activate`
+  - `.env\Scripts\activate`
 - <small>**On Linux or MacOS**</small>:
    - `source env/bin/activate`
 
