@@ -14,7 +14,7 @@ To use this application, you'll need Python installed on your system. This appli
 
 #### 2. Navigate to the project directory:
 
-`cd CEP_Identificator`
+`cd CEP_Identifier`
 
 
 #### 3. Create a virtual environment (optional but recommended):
