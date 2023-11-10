@@ -9,7 +9,7 @@ To use this application, you'll need Python installed on your system. This appli
 
 #### 1. Clone the repository:
 
-`git clone https://github.com/dellaretiarthur/CEP_Identificator.git
+`git clone https://github.com/dellaretiarthur/CEP_Identifier.git
 `
 
 #### 2. Navigate to the project directory:
